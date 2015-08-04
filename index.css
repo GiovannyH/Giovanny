@@ -1,0 +1,31 @@
+	nav ul li{
+		display: inline-block;
+	}
+	nav{
+		border-width:100%;
+		background-color: gray;
+		font-size: 30px;
+		font-family: Fantasy;
+	}
+	  body {
+	  	text-align: center;
+	   background: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3buOeHtkW9MvMur3dWq8_uQZH1SrHYcQ0q6ecziZxKpLhgW3p");
+	   background-size: center;
+	   background-position: center;
+	   color: green;
+	   	
+	}
+	p {
+      font-size: 20px;
+      font-family: cursive;
+	}
+			a:link {
+				text-decoration: none;
+				color:#4C0066;
+			}
+			a:hover {
+				color:#000000;
+			}
+			a:visited {
+				color:#FF0000
+			}
